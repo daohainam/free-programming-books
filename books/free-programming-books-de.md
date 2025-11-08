@@ -94,7 +94,7 @@
 
 ### Delphi
 
-* [Delphi-Starter](https://web.archive.org/web/20170714162427/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*
+* [Delphi-Starter](https://web.archive.org/web/20170714162427/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *( :card_file_box: archived)*
 
 
 ### Git
@@ -140,7 +140,7 @@
 * [Java 7 Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7) - Christian Ullenboom (Online)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel) - Christian Ullenboom (Online)
 * [Java SE 8 Standard-Bibliothek](http://openbook.rheinwerk-verlag.de/java8) - Christian Ullenboom (Online)
-* [Java Tutorial - Java lernen leicht gemacht](https://java-tutorial.org/index.php) - Björn und Britta Petri
+* [Java Tutorial - Java lernen leicht gemacht](https://web.archive.org/web/20230805211306/https://java-tutorial.org/index.php) - Björn und Britta Petri *( :card_file_box: archived)*
 * [Nebenläufige Programmierung mit Java](https://www.assets.dpunkt.de/openbooks/Hettel_Nebenlaeufige%20Programmierung%20mit%20Java_Broschuere.pdf) - Jörg Hettel und Manh Tien Tran (PDF)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau) - Boris Schäling (HTML)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung) - Boris Schäling (HTML)
@@ -208,13 +208,13 @@
 
 * [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)
-* [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *(:construction: in Bearbeitung)*
+* [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *( :construction: in Bearbeitung)*
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python) - Johannes Ernesti, Peter Kaiser (Online)
 
 
 #### Django
 
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) *(:construction: in Bearbeitung)*
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) *( :construction: in Bearbeitung)*
 
 
 ### R
@@ -224,7 +224,7 @@
 
 ### Ruby on Rails
 
-* [Praxiswissen Ruby](https://web.archive.org/web/20160328183933/https://oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) - Sascha Kersken (PDF) *(:card_file_box: archived)*
+* [Praxiswissen Ruby](https://web.archive.org/web/20160328183933/https://oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) - Sascha Kersken (PDF) *( :card_file_box: archived)*
 * [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) - Denny Carl (PDF)
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)

@@ -9,7 +9,7 @@
 * [Blazor](#blazor)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C#](#a-idcsharpac)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Cấu trúc dữ liệu và Giải thuật](#cấu-trúc-dữ-liệu-và-giải-thuật)
 * [Dart](#dart)
@@ -356,7 +356,7 @@
 
 * [Khóa tự học machine learning cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpBPoqtW2ARJp9ICnF3c7vJC) - Son Nguyen
 * [Lập trình Machine learning cơ bản với Python](https://www.youtube.com/playlist?list=PL33lvabfss1zLDVHXW_YUJxhxBFap-vm_) - K team
-* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp *(:construction: in process)*
+* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp *( :construction: in process)*
 * [Machine Learning](https://www.youtube.com/playlist?list=PLsWjY--3QXFWE1Nk6erXuTSf3QLC161pm) - Son Tran
 * [Machine Learning Cơ Bản](https://www.youtube.com/playlist?list=PLu-LVHS6JzYjoUuPAwcE9sff2NMrEH6KD) - Học Lập Trình cùng Phát
 * [Machine learning cơ bản (Học máy thống kê)](https://www.youtube.com/playlist?list=PLpDNYPX7w1RYeDSr3q0EJA978jjuMz4TX) - Bài Học 10 Phút
@@ -476,7 +476,6 @@
 ### React
 
 * [Học lập trình React JS - Redux - NodeJS qua dự án thực tế](https://www.youtube.com/playlist?list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow) - Thầy Nguyễn Đức Việt
-* [Học React Hooks cơ bản (2020)](https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
 * [Học React Hooks cơ bản (2020)](https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
 * [Học redux cơ bản 2020](https://www.youtube.com/playlist?list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S) - Easy Frontend
 * [Khóa Học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer](https://youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT

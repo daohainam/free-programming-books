@@ -8,6 +8,7 @@
 * [Control de Versiones](#control-de-versiones)
 * [Flujos de trabajo](#flujos-de-trabajo)
 * [Frameworks](#frameworks)
+* [Inteligencia Artificial](#inteligencia-artificial)
 * [LaTeX](#latex)
 * [Markdown](#markdown)
 * [Ofimática](#ofim&#x00E1;tica)
@@ -113,6 +114,11 @@
 * [Probar Django \| Crear una Aplicación Web](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python) - Justin Mitchel, Karlita K (Udemy)
 
 
+### Inteligencia Artificial
+
+* [Generative AI para Principiantes .NET - Un Curso](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/es) - Microsoft (GitHub)
+
+
 ### LaTeX
 
 * [Curso no convencional de LaTeX](https://ondiz.github.io/cursoLatex/)
@@ -120,6 +126,7 @@
 
 ### Markdown
 
+* [Curso de Markdown](https://www.youtube.com/playlist?list=PLM4HZoZrNapsQ_f6a9275n15riyr-2AnQ) - ProgramaTutos
 * [Tutorial de Markdown](https://www.markdowntutorial.com/es/)
 
 
@@ -149,9 +156,9 @@
 
 ### Procesadores de lenguaje
 
-* [Compiladores e Intérpretes (2012)](https://web.archive.org/web/20130613211947/http://ocw.uji.es/curso/4949) *(:card_file_box: archived)*
+* [Compiladores e Intérpretes (2012)](https://web.archive.org/web/20130613211947/http://ocw.uji.es/curso/4949) *( :card_file_box: archived)*
 * [Procesadores de lenguaje (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/procesadores-de-lenguaje-2006.html)
-* [Procesadores de Lenguaje (2012)](https://web.archive.org/web/20130524191858/http://ocw.uji.es/curso/5180) *(:card_file_box: archived)*
+* [Procesadores de Lenguaje (2012)](https://web.archive.org/web/20130524191858/http://ocw.uji.es/curso/5180) *( :card_file_box: archived)*
 * [Procesadores de lenguajes -enfocado en Perl-](https://campusvirtual.ull.es/ocw/course/view.php?id=45)
 * [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56)
 
@@ -165,7 +172,8 @@
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
 * [Curso de Javascript](https://edutin.com/curso-de-javascript-4284) - (Edutin Academy)
 * [Curso de JavaScript Gratis](https://codigofacilito.com/cursos/javascript) - Código Facilito
-* [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_) - Juan Díaz (Píldoras informáticas) 
+* [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_) - Juan Díaz (Píldoras informáticas)
+* [Curso de Python](https://www.youtube.com/playlist?list=PLNdFk2_brsRcrVO-C915sjog0WclPgxHb) - Brias Moure "MoureDev"
 * [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin
 * [Curso Gratis de Programación Básica](https://platzi.com/clases/programacion-basica/) - Platzi
 * [Curso Gratis de Ruby](https://codigofacilito.com/cursos/ruby-2) - Código Facilito
